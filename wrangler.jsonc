@@ -12,14 +12,12 @@
         {
             "binding": "database",
             "database_name": "database-bark",
-            "database_id": "<unique-ID-for-your-database>"
+            "database_id": "3dc5c3bb-6f7c-4f4c-be7e-23b2ef982371"
         }
     ],
-    "keep_vars": true,
     "vars": {
-        "ALLOW_NEW_DEVICE": "true",
+        "ALLOW_NEW_DEVICE": "false",
         "ALLOW_QUERY_NUMS": "true",
-        "ROOT_PATH": "/",
-        // "BASIC_AUTH": ""
+        "ROOT_PATH": "/"
     }
 }
